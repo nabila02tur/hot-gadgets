@@ -1,1 +1,11 @@
 .container {margin-bottom: 100px;}
+.buy-now { background-image: linear-gradient(to bottom,rgb(51, 50, 50) 0%,black 100%);
+color: beige;
+border-radius: 5px;
+border: none;
+padding: 10px 30px;
+cursor: pointer;}
+.carousel-item {
+    padding: 20px 40px;
+}
+h3 {color: rgb(221, 221, 45);}
